@@ -1,4 +1,4 @@
-# Persian Text-Based Emotion Detection
+# Persian Sentiment Analysis
 
 ## Overview
 This project focuses on the challenging task of emotion detection in Persian text, aiming to enhance natural language understanding capabilities for applications in sentiment analysis, social media monitoring, and user engagement analysis in Persian-speaking communities. Emotion detection plays a crucial role in understanding the affective aspects of text data, providing valuable insights into users' sentiments and emotional states.
